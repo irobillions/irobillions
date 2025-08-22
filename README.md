@@ -22,14 +22,6 @@
 - **Bases de données :** MongoDB, MySQL, PostgreSQL, SQL Server  
 - **Outils :** GitLab CI/CD, Docker, MATLAB, Git, JIRA
 
----
-
-## 📈 Mes stats GitHub
-![Christ's GitHub stats](https://github-readme-stats.vercel.app/api?username=irobillions&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irobillions&layout=compact&theme=tokyonight)  
-
----
 
 ## 🌍 Me concernant
 - 📍 Basé à **Montréal, Canada**  
