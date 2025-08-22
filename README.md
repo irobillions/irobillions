@@ -1,6 +1,4 @@
 
-
-<!--
 ## 👋 Salut, moi c’est Christ Bouka  
 
 🎓 Étudiant en **Génie Informatique** à Polytechnique Montréal  
