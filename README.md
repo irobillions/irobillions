@@ -8,9 +8,9 @@
 
 ## 🚀 Ce que je fais
 - 🖥️ Développement **Web backend & frontend | Mobile | Embarqué & Firmware | Desktop**  
-- ⚡ Projets en **systèmes embarqués, Web, IoT, IA**  
+- ⚡ Projets en **systèmes embarqués, Web, IA**  
 - 📊 Exploration de la **finance et IA generative**  
-- 📱 Développement d’**applications modernes** (React, Angular, Flutter)
+- 📱 Développement d’**applications modernes** (React, Angular)
 - ✨ Design et prototypage avec **Figma**
 
 ---
@@ -20,7 +20,7 @@
 - **Backend :** Spring Boot, Flask, Node.js, FastApi, ExpressJs  
 - **Frontend :** React, Angular  
 - **Bases de données :** MongoDB, MySQL, PostgreSQL, SQL Server  
-- **Outils :** GitLab CI/CD, Docker, MATLAB, Git, JIRA
+- **Outils :** GitLab, Docker, Git, JIRA
 
 
 ## 🌍 Me concernant
