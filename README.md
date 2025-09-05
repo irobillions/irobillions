@@ -33,7 +33,6 @@
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/christ-bouka-51236b197/)  
-- ✉️ christbouka14@yahoo.fr  
 
 ---
 
